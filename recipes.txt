@@ -3,10 +3,12 @@ Welcome to CiniliCafe
 
 Chocolate Cake
 Tiramisu
-Falafel
-
-Chicken Pasta
 Cheesecake
+
+Falafel
+Chicken Pasta
+Hummus and Soup
+
 
 Thank you!
 Done with my changes.
